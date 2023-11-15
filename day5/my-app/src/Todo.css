@@ -1,0 +1,102 @@
+.body1{
+     
+    width:100%;
+    /* margin-left:300px; */
+/* background-color: antiquewhite; */
+
+
+}
+
+ h1{
+    text-align:center;
+}
+.todo-input-item{
+    display: inline;
+    margin-left: 20px;
+     
+}
+.centerinput{
+    text-align:center;
+}
+input{
+    height:30px;
+    width: 300px;
+     border-style:solid;  
+background-color: rgb(11, 12, 12);
+   border-radius: 3px;;
+   border-color: aliceblue;
+}
+input:hover{
+    border-color: aqua;
+}
+
+label{
+    font-size: 25px;
+}
+
+button{
+    width: 70px;
+    height: 34px;
+    background-color:rgb(38, 245, 15);
+    border-radius: 4px;
+    border-style: none;
+    margin-left: 5px;
+    text-align: center;
+}
+#del{
+    background-color: rgb(214, 141, 44);
+}
+
+#edit{
+    background-color: rgb(70, 150, 133); 
+}
+
+.card{
+    margin-top: 30px;
+    margin-left:30px;
+    height:200px;
+    width: 300px;
+    background-color: rgb(17, 17, 17);
+    padding : 20px;
+
+} 
+    
+ .cardlist{
+    margin-top: 100px;
+    padding-left: 200px;
+ }
+
+ .container-sm{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 0px;
+ 
+ }
+ 
+
+ select{
+    background-color: rgb(10, 254, 83);
+    color: rgb(8, 8, 8);
+   width: 70px;
+    height: 34px;
+    margin-left: 10px;
+   
+     
+ }
+ .select1{
+    margin-left: 900px;
+    position: relative;
+    top:110px;
+
+ }
+ h5{
+    font-size: 25px;
+ }
+ span{
+    background-color: rgb(246, 245, 246);
+     
+ }
+
+ body{
+    background-color: rgb(240, 13, 13);
+ }
